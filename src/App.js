@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://orcas-phantom-frontend.herokuapp.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Go to orcas frontend
         </a>
       </header>
     </div>
